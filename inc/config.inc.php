@@ -1,0 +1,42 @@
+<?php
+define('DB_HOST','localhost');
+define('DB_USER','root');
+define('DB_PASSWORD','admin');
+define('DB_DATABASE','test');
+define('DB_PORT','3306');
+$cars1=array("rar",
+            "zip",
+            "html",
+            "txt",
+            "doc",
+            "docx",
+            "pdf",
+            "ppt",
+            "xlsx",
+            "psd",
+            "exe",
+            "jar",
+            "ini",
+            "gif",
+            "jpeg",
+            "png",
+            "psd",
+            "jpg");
+$cars2=array("img/rar.png",
+            "img/rar.png",
+            "img/html.png",
+            "img/txt.png",
+            "img/doc.png",
+            "img/doc.png",
+            "img/pdf.png",
+            "img/ppt.png",
+            "img/xlsx.png",
+            "img/psd.png",
+            "img/exe.png",
+            "img/exe.png",
+            "img/ini.png",
+            "img/png.png",
+            "img/png.png",
+            "img/png.png",
+            "img/png.png",
+            "img/png.png");

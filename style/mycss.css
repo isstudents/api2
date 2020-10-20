@@ -1,0 +1,13 @@
+tr,td,body{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(242,244,246);
+}
+table{
+    border-collapse:collapse;
+}
+.trstyle:hover{
+    background-color: rgb(193,217,243);
+}
